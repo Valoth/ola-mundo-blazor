@@ -2,14 +2,14 @@
 
 Projeto desenvolvido para atividade acadêmica com o objetivo de praticar conceitos básicos de Blazor.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Exibição de mensagem "Olá mundo"
 - Interação com botão
 
-## 🛠 Tecnologias
+## Tecnologias
 - C#
 - Blazor
 
-## ▶️ Como executar
+## Como executar
 ```bash
 dotnet run
